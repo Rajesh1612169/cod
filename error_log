@@ -1,0 +1,2 @@
+[06-Jan-2021 11:26:35 America/Detroit] PHP Parse error:  syntax error, unexpected 've' (T_STRING) in /home/recreate/caprarangelogistics.com/portal/application/config/config.php on line 33
+[06-Jan-2021 11:26:35 America/Detroit] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0

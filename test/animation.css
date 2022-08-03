@@ -1,0 +1,724 @@
+#banner {
+                        /* background-repeat: no-repeat;
+                        background-position: center;
+                        background-size: cover; */
+                            height: 1050px !important ;
+                        }
+                        .afterBanner {
+                        margin-top: 80px !important;}
+
+
+
+                        .banner-form-custom-cs .error{
+                            left: 77px;
+                        }
+
+                        .banner-form-custom-cs .form-group-custom.with-icon {
+                            padding-bottom: 22px;
+                        }
+                        .banner-form-custom-cs {
+                                width: 100%;
+                                max-width: 430px;
+                                /* display: flex; */
+                                float: right;
+                                text-align: center;
+                                background: #ffffffe0;
+                                height: 83%;
+                                border-radius: 28px;
+                                margin-top: 140px;
+                            }
+
+                            .banner-form  .form-header {
+                                background: #E3B54A;
+                            }
+
+                            .banner-form-custom-cs  .form-header-custom-cs {
+                                background: #E3B54A;
+                                border-radius: 28px 28px 0px 0px;
+                            }
+                            
+                            .form-header-custom-cs h3 {
+                                /*font-family: 'Perpetua';*/
+                                font-weight: bold;
+                                color: #000;
+                                padding: 15px 0px;
+                                margin-bottom: 0px;
+                                background: linear-gradient(90deg, rgb(15 144 150) 8%, rgb(148 180 181) 100%);
+                                border-radius: 28px 28px 0px 0px;
+                                height: 110px;
+                                font-size: 25px;
+                            }
+
+
+                            .banner-form-custom-cs form {
+                                padding: 0px 25px;
+                            }
+
+                            .banner-form-custom-cs .form-group-custom {
+                                margin-bottom: 10px;
+                            }
+
+                            .form-control-custom:focus{
+                                border-color: #E3B54A !important;
+                            }
+
+                            .form-body-custom-cs span {
+                                background: #fff;
+                                padding: 10px 20px;
+                                -webkit-box-shadow: 0px 23px 32px -10px rgb(173 168 173);
+                                -moz-box-shadow: 0px 23px 32px -10px rgba(173,168,173,1);
+                                box-shadow: 0px 23px 32px -10px rgb(173 168 173);
+                                border-radius: 30px;
+                                font-family: 'Perpetua';
+                                font-weight: bold;
+                                font-size: 20px;
+                            }
+
+                            .form-body-custom-cs-red  {
+                                color: red;
+                                font-family: 'Perpetua';
+                            }
+
+                            .form-body-custom-cs-red h4{
+                                font-size: 16px;
+                                color: red;
+                                font-weight: 600;
+                                padding-top: 15px;
+                            }
+
+                            .banner-form-custom-cs input[type="submit"] {
+                                background: #E3B54A;
+                                width: 100%;
+                                height: 55px;
+                                border: none;
+                                border-radius: 49px;
+                                /* font-family: 'Perpetua'; */
+                                font-weight: bold;
+                                font-size: 24px;
+                                text-align: center;
+                                transition: ease .5s;
+                                /* background: linear-gradient(90deg, rgb(15 144 150) 8%, rgb(148 180 181) 100%); */
+                                box-shadow: 0 10px 9px 0 rgb(159 206 207);
+                            }
+                            .form-body-custom {
+                                line-height: 0.5;
+                                margin-bottom: 30px;
+                            }
+
+                            
+
+                            .call-link-custom {
+                                color: #222222;
+                                font-size: 15px;
+                            }
+
+                            .call-link-custom:hover {
+                                color: #222222;
+                                font-size: 15px;
+                            }
+
+                            .chat-link-custom {
+                                color: #222222;
+                                font-size: 15px;
+                            }
+
+                            .chat-link-custom:hover {
+                                color: #222222;
+                                font-size: 15px;
+                            }
+
+                            .hd-custom-black h4{
+                                margin-top: 25px;
+                                font-size: 15px;
+                                font-weight: 600;
+                                font-family: 'Perpetua';
+                            }
+
+                            .banner-form-custom-cs input[type="submit"]:hover{
+                                background: #000;
+                                color:#fff;
+                            }
+                            .wrap-custom {
+                                margin-top: 100px;
+                            }
+                            #sec-10 input.form-control-custom.anime_field {
+                                border-radius: 6;
+                                padding-top: 10px;
+                                padding-bottom: 10px;
+                                border-color: #293241;
+                            }
+                            #sec-10 .form-control-custom {
+                                display: block;
+                                width: 100%;
+                                padding: .375rem .75rem;
+                                font-size: 1rem;
+                                line-height: 1.5;
+                                color: #495057;
+                                background-color: #fff;
+                                background-clip: padding-box;
+                                border: 1px solid #ced4da;
+                                border-radius: .25rem;
+                                transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+                            }
+
+
+
+                            span.icon-user{
+                                position: absolute;
+                                /* content: ""; */
+                                height: 17px;
+                                width: 17px;
+                                background: url('images/user.html');
+                                /* background-size: contain; */
+                                /* background-position: center; */
+                                left: 80px;
+                                /* top: 18px; */
+                                margin-top: -33px;
+                                background-repeat: no-repeat;
+
+                            }
+                            span.icon-email{
+                                position: absolute;
+                                content: "";
+                                height: 17px;
+                                width: 17px;
+                                background: url('images/email.html');
+                                /* background-size: contain; */
+                                /* background-position: center; */
+                                left: 80px;
+                                /* top: 18px; */
+                                margin-top: -29px;
+                                background-repeat: no-repeat;
+
+                            }
+
+                            span.icon-phone{
+                                position: absolute;
+                                content: "";
+                                height: 17px;
+                                width: 17px;
+                                background: url('images/phone-call.html');
+                                background-size: contain;
+                                background-position: center;
+                                left: 80px;
+                                /* top: 18px; */
+                                margin-top: -32px;
+                                background-repeat: no-repeat;
+
+                            }
+				
+	/*	#name-type{
+border: 1px solid #0f9096;
+    height: 45px!important;
+    border-radius: 38px;
+    padding-left: 35px;
+
+}
+*/
+
+                            
+#close-btn{
+    position: absolute;
+    margin-top: -40px;
+    margin-left: 350px;
+    font-size: 42px;
+}
+                            
+
+
+                            @media (min-width: 300px) and (max-width: 767px){
+                                .banner-form-custom-cs input[type="submit"]{
+                                    font-size: 20px !important;
+                                }
+                                #navbarNavDropdown{
+                                    text-align: center;
+                                }
+                                #add-new{
+                                    display:none !important;
+                                }
+                                .testimonials-sec{
+                                    padding-top:unset !important;
+                                }
+                                
+                                #banner {
+                                    height: unset !important;
+                                }
+                                .banner-form-custom-cs {
+                                    margin-top: unset !important;
+                                    height: unset !important;
+                                }
+                                .quote-chat-btn{
+                                    display: inline !important;
+                                }
+                                /* span.icon-user{
+                                    left: 65px !important;
+                                }
+                                span.icon-email{
+                                    left: 65px !important;
+                                }
+                                span.icon-phone{
+                                    left: 65px !important;
+                                } */
+                                #banner .bannerInner{
+                                    padding-top: 45px;
+                                }
+                                .paddTop40 {
+                                    padding-top: 25px;
+                                }
+/*.form-group-custom input[type="text"], form input[type="email"], form input[type="tel"]{
+
+padding-left:55px;
+}*/
+
+#close-btn {
+    position: absolute;
+    margin-top: -40px;
+    margin-left: 249px;
+    font-size: 30px;
+}
+.pop-img{
+display:none;
+}
+.special-offer-modal .form-modal{
+    padding-left: unset !important; 
+    padding-right: unset !important;
+    width: unset !important;
+}
+.special-offer-modal .off-offer{
+top: unset !important;
+font-size: 35px !important;
+}
+}
+
+                            @media (max-width: 991px) {
+                                span.icon-user{
+                                    left: 70px !important;
+                                }
+                                span.icon-email{
+                                    left: 70px !important;
+                                }
+                                span.icon-phone{
+                                    left: 70px !important;
+                                }
+                            }
+
+                            @keyframes float {
+                            0% {
+                                transform: translatex(0)
+                            }
+                            50% {
+                                transform: translatex(20px)
+                            }
+                            100% {
+                                transform: translatex(0)
+                            }
+                        }
+
+                        .float-animate {
+                            animation: float 6s ease-in-out infinite
+                        }
+
+                        @keyframes floatsecond {
+                            0% {
+                                transform: translatex(0)
+                            }
+                            50% {
+                                transform: translatex(-20px)
+                            }
+                            100% {
+                                transform: translatex(0)
+                            }
+                        }
+
+                        .float-animate-second {
+                            animation: floatsecond 6s ease-in-out infinite
+                        }
+
+                        .blink-bg-sixth {
+                            color: #fff;
+                            padding: 5px 35px;
+                            border: none;
+                            display: inline-block;
+                            /* border-radius: 50px; */
+                            animation: blinkingBackgroundsixth 4s infinite
+                        }
+
+                        @keyframes blinkingBackgroundsixth {
+                            0% {
+                                background-color: #fff;
+                                color: #0F9096;
+                            }
+                            25% {
+                                background-color: #0F9096;
+                                color: #fff
+                            }
+                            50% {
+                                background-color: #fff;
+                                color: #0F9096;
+                            }
+                            75% {
+                                background-color: #0F9096;
+                                color: #fff
+                            }
+                            100% {
+                                background-color: #fff;
+                                color: #0F9096;
+                            }
+                        }
+
+                        .blink-bg-fifth {
+                            color: #fff;
+                            padding: 5px 35px;
+                            border: none;
+                            display: inline-block;
+                            /* border-radius: 50px; */
+                            animation: blinkingBackgroundfifth 4s infinite
+                        }
+
+                        @keyframes blinkingBackgroundfifth {
+                            0% {
+                                background-color: #0F9096;
+                                color: #fff
+                            }
+                            25% {
+                                background-color: #fff;
+                                color: #0F9096;
+                            }
+                            50% {
+                                background-color: #0F9096;
+                                color: #fff;
+                            }
+                            75% {
+                                background-color: #fff;
+                                color: #0F9096;
+                            }
+                            100% {
+                                background-color: #0F9096;
+                                color: #fff
+                            }
+                        }
+
+                        .blink-bg-fourth {
+                            color: #fff;
+                            padding: 5px 35px;
+                            border: none;
+                            display: inline-block;
+                            /* border-radius: 50px; */
+                            animation: blinkingBackgroundfourth 4s infinite
+                        }
+
+                        @keyframes blinkingBackgroundfourth {
+                            0% {
+                                background-color: transparent;
+                                border: 2px solid #0F9096;
+                                color: #fff
+                            }
+                            25% {
+                                background-color: #0F9096;
+                                color: #fff;
+                                border: 2px solid transparent
+                            }
+                            50% {
+                                background-color: transparent;
+                                color: #fff;
+                                border: 2px solid #0F9096;
+                            }
+                            75% {
+                                background-color: #0F9096;
+                                color: #fff;
+                                border: 2px solid transparent
+                            }
+                            100% {
+                                background-color: transparent;
+                                color: #fff;
+                                border: 2px solid #0F9096;
+                            }
+                        }
+
+                        .blink-bg-third {
+                            color: #fff;
+                            padding: 5px 35px;
+                            border: none;
+                            display: inline-block;
+                            /* border-radius: 50px; */
+                            animation: blinkingBackgroundthird 4s infinite
+                        }
+
+                        @keyframes blinkingBackgroundthird {
+                            0% {
+                                background-color: #0F9096;
+                                color: #fff;
+                                border: 2px solid transparent
+                            }
+                            25% {
+                                background-color: transparent;
+                                color: #fff;
+                                border: 2px solid #0F9096;
+                            }
+                            50% {
+                                background-color: #0F9096;
+                                color: #fff;
+                                border: 2px solid transparent
+                            }
+                            75% {
+                                background-color: transparent;
+                                color: #fff;
+                                border: 2px solid #0F9096;
+                            }
+                            100% {
+                                background-color: #0F9096;
+                                color: #fff;
+                                border: 2px solid transparent
+                            }
+                        }
+
+                        .blink-bg-second {
+                            color: #fff;
+                            padding: 5px 35px;
+                            border: none;
+                            display: inline-block;
+                            /* border-radius: 50px; */
+                            animation: blinkingBackgroundsecond 4s infinite
+                        }
+
+                        @keyframes blinkingBackgroundsecond {
+                            0% {
+                                background-color: #0F9096;
+                            }
+                            25% {
+                                background-color: #e3e3e3;
+                                color:#000;
+                                border: 2px solid #0F9096;
+                            }
+                            50% {
+                                background-color: #0F9096;
+                            }
+                            75% {
+                                background-color: #e3e3e3;
+                                color:#000;
+                                border: 2px solid #0F9096;
+                            }
+                            100% {
+                                background-color: #0F9096;
+                            }
+                            
+                        }
+
+                        .blink-bg {
+                            color: #fff;
+                            padding: 5px 35px;
+                            border: none;
+                            display: inline-block;
+                            /* border-radius: 50px; */
+                            animation: blinkingBackground 4s infinite
+                        }
+
+                        @keyframes blinkingBackground {
+                            0% {
+                                background-color: #dc5c22;
+                            }
+                            25% {
+                                background-color: #0F9096;
+                            }
+                            50% {
+                                background-color: #dc5c22;
+                            }
+                            75% {
+                                background-color: #0F9096;
+                            }
+                            100% {
+                                background-color: #dc5c22;
+                            }
+                        }
+
+
+                        /* custom */
+
+                        .blink-bg-third-c {
+                            color: #fff;
+                            padding: 5px 35px;
+                            border: none;
+                            display: inline-block;
+                            /* border-radius: 50px; */
+                            animation: blinkingBackgroundthirdc 4s infinite
+                        }
+
+                        @keyframes blinkingBackgroundthirdc {
+                            0% {
+                                background-color: #0F9096;
+                                color: #000;
+                                border: 2px solid transparent
+                            }
+                            25% {
+                                background-color: transparent;
+                                color: #278596;
+                                border: 2px solid #0F9096;
+                            }
+                            50% {
+                                background-color: #0F9096;
+                                color: #000;
+                                border: 2px solid transparent
+                            }
+                            75% {
+                                background-color: transparent;
+                                color: #278596;
+                                border: 2px solid #0F9096;
+                            }
+                            100% {
+                                background-color: #0F9096;
+                                color: #000;
+                                border: 2px solid transparent
+                            }
+                        }
+
+                        .blink-bg-fourth-c {
+                            color: #fff;
+                            padding: 5px 35px;
+                            border: none;
+                            display: inline-block;
+                            /* border-radius: 50px; */
+                            animation: blinkingBackgroundfourthc 4s infinite
+                        }
+
+                        @keyframes blinkingBackgroundfourthc {
+                            0% {
+                                background-color: transparent;
+                                border: 2px solid #0F9096;
+                                color: #278596;
+                            }
+                            25% {
+                                background-color: #0F9096;
+                                color: #000;
+                                border: 2px solid transparent
+                            }
+                            50% {
+                                background-color: transparent;
+                                color: #278596;
+                                border: 2px solid #0F9096;
+                            }
+                            75% {
+                                background-color: #0F9096;
+                                color: #000;
+                                border: 2px solid transparent
+                            }
+                            100% {
+                                background-color: transparent;
+                                color: #000;
+                                border: 2px solid #0F9096;
+                            }
+                        }
+
+                        /* end */
+
+                        /* hover css continously */
+
+                        .serviceBox-hove1 {
+                            background: #fff;
+                            box-shadow: 0 0 40px rgb(10 35 56 / 15%);
+                            -webkit-transform: translateY(-10p);
+                            -moz-transform: translateY(-10px);
+                            -ms-transform: translateY(-10px);
+                            -o-transform: translateY(-10px);
+                            transform: translateY(-10px);
+                            animation: blinkBoxa 4s infinite
+                        }
+                        
+                        .serviceBox-hove2 {
+                            background: #fff;
+                            box-shadow: 0 0 40px rgb(10 35 56 / 15%);
+                            -webkit-transform: translateY(-10p);
+                            -moz-transform: translateY(-10px);
+                            -ms-transform: translateY(-10px);
+                            -o-transform: translateY(-10px);
+                            transform: translateY(-10px);
+                            animation: blinkBoxb 4s infinite
+                        }
+                        .serviceBox-hove3 {
+                            background: #fff;
+                            box-shadow: 0 0 40px rgb(10 35 56 / 15%);
+                            -webkit-transform: translateY(-10p);
+                            -moz-transform: translateY(-10px);
+                            -ms-transform: translateY(-10px);
+                            -o-transform: translateY(-10px);
+                            transform: translateY(-10px);
+                        }
+                        .serviceBox-hove4 {
+                            background: #fff;
+                            box-shadow: 0 0 40px rgb(10 35 56 / 15%);
+                            -webkit-transform: translateY(-10p);
+                            -moz-transform: translateY(-10px);
+                            -ms-transform: translateY(-10px);
+                            -o-transform: translateY(-10px);
+                            transform: translateY(-10px);
+                        }
+                        .serviceBox-hove5 {
+                            background: #fff;
+                            box-shadow: 0 0 40px rgb(10 35 56 / 15%);
+                            -webkit-transform: translateY(-10p);
+                            -moz-transform: translateY(-10px);
+                            -ms-transform: translateY(-10px);
+                            -o-transform: translateY(-10px);
+                            transform: translateY(-10px);
+                        }
+                        .serviceBox-hove6 {
+                            background: #fff;
+                            box-shadow: 0 0 40px rgb(10 35 56 / 15%);
+                            -webkit-transform: translateY(-10p);
+                            -moz-transform: translateY(-10px);
+                            -ms-transform: translateY(-10px);
+                            -o-transform: translateY(-10px);
+                            transform: translateY(-10px);
+                        }
+                        #call .mailBox a:after {
+                            -webkit-animation: toFro 1s infinite;
+                            -moz-animation: toFro 1s infinite;
+                            -ms-animation: toFro 1s infinite;
+                            -o-animation: toFro 1s infinite;
+                            animation: toFro 1s infinite;
+                        }
+
+
+					
+			@media(min-width:768px) and (max-width:991px){
+
+				#banner {height:unset !important;}
+.banner-form-custom-cs {
+    width: 100%;
+	max-width: unset !important;
+    float: right;
+    text-align: center;
+    background: #ffffffe0;
+    height: 104%;
+    border-radius: 28px;
+    margin-top: 0px;
+}
+
+#banner .bannerInner{
+	padding-top:3px !important
+}
+			
+#add-new .quote-btn{
+	text-align:center;
+	margin-top:20px;
+}
+
+.special-offer-modal .form-modal{
+	width: unset !important;
+}
+
+.pop-img{
+	display:none;
+}
+
+#close-btn {
+    position: absolute;
+    margin-top: -40px;
+    margin-left: 430px;
+    font-size: 42px;
+}
+#expert-employ img{
+	width:100px;
+}
+}
+
+                        /* end */
